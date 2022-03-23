@@ -1,0 +1,7 @@
+commodityID,commodityName,price,number,description,sellerID,addedDate,state
+M001,hu,15.0,0,huhuhu,U001,2022-03-18,removed
+M002,ywz,15.0,0,coolll,U001,2022-03-22,removed
+M003,cool,14.0,2,yuck,U001,2022-03-22, onSale
+M004,hu,20.0,5,ahhhh,U001,2022-03-22, onSale
+M005,chenenen,90.0,1,ooo,U001,2022-03-22, onSale
+M006,chen,5.0,1,foo,U001,2022-03-22, onSale

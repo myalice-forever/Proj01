@@ -1,0 +1,158 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Buyer.cpp
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.h(10,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(92,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(94,61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(232,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(219,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(225,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(263,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(269,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(288,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(296,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(297,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(319,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(320,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(323,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(343,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(367,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(372,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(378,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(382,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(462,11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.cpp(538,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Seller.cpp
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(31,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(58,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(74,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(178,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(182,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(183,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(184,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(244,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(335,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(260,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(292,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(354,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(392,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(438,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Seller.cpp(210,7): warning C4101: “buf”: 未引用的局部变量
+  User.cpp
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.h(10,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(25,56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(44,47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(65,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(66,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(85,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(86,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(102,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(103,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(121,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(125,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.cpp(245,23): warning C4018: “<”: 有符号/无符号不匹配
+  administrator.cpp
+C:\Users\My_Alice\Desktop\Project1\administrator.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.h(12,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(82,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(106,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(116,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(120,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(234,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.cpp(284,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  function.cpp
+C:\Users\My_Alice\Desktop\Project1\function.cpp(10,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(60,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(70,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(74,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(86,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(96,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(100,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(112,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(123,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(127,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(139,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(145,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(150,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(169,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(185,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(196,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(207,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(218,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(234,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(260,22): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\My_Alice\Desktop\Project1\function.cpp(242,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(289,23): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\My_Alice\Desktop\Project1\function.cpp(271,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(318,22): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\My_Alice\Desktop\Project1\function.cpp(300,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(327,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(328,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(332,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(333,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(337,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(338,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(342,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(343,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(347,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(349,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(369,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(379,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(383,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(473,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(527,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(605,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(613,12): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(693,22): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\My_Alice\Desktop\Project1\function.cpp(707,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(754,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(820,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(906,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(916,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(940,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(952,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\function.cpp(1005,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(1019,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\My_Alice\Desktop\Project1\function.cpp(1034,20): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\My_Alice\Desktop\Project1\User.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(15,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\User.h(16,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\Buyer.h(10,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.h(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\administrator.h(12,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(15,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(17,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(20,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(22,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(25,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(27,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(30,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(32,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(35,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(37,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(40,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(42,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(45,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(47,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My_Alice\Desktop\Project1\main.cpp(81,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+C:\Users\My_Alice\Desktop\Project1\function.cpp(703): warning C4715: “judge_expressions_remake”: 不是所有的控件路径都返回值
+C:\Users\My_Alice\Desktop\Project1\function.cpp(828): warning C4715: “judge_goods_name_valid”: 不是所有的控件路径都返回值
+C:\Users\My_Alice\Desktop\Project1\function.cpp(1017): warning C4715: “judge_name”: 不是所有的控件路径都返回值
+C:\Users\My_Alice\Desktop\Project1\function.cpp(967): warning C4172: 返回局部变量或临时变量的地址: new_user
+  Project1.vcxproj -> C:\Users\My_Alice\Desktop\Project1\Debug\Project1.exe

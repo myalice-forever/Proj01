@@ -1,0 +1,4 @@
+userID,username,password,phoneNumber,address,balance,userState
+U001,ywz,123456,15961675460,nanjing,335.0,  active
+U002,chen,123456,15961675460,huhuhu,-75.0,  active
+U003,lls,123456,123456,ahhhhh,0.0,  active
