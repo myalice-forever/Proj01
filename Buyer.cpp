@@ -5,6 +5,7 @@
 #include<iomanip>
 #include<string.h>
 #include "struct.h"
+#include<cstring>
 using namespace std;
 bool Buyer::judge_buy_goods(char ID[5], int qua) {
 	goods* p = create_goods();
@@ -310,8 +311,9 @@ void Buyer::add_shoppingcart(const char ID[5], int quantity) {
 	shoppingcarts* p = create_shoppingcarts();
 	shoppingcarts* head = p;
 	goods* q = create_goods();
+	for (; p && strcmp(p->goods_ID, ID) != 0; p = p->next);
 	for (; q && strcmp(q->ID, ID)!=0; q = q->next);
-	if (quantity > q->items_number) {
+	if (p&&quantity+p->quantity > q->items_number) {
 		printf("Not sufficient goods!\nFail to add this commodity to your cart!\n");
 		return;
 	}
@@ -325,7 +327,6 @@ void Buyer::add_shoppingcart(const char ID[5], int quantity) {
 		for (; p->next && strcmp(p->goods_ID, ID) != 0; p = p->next);
 		if (strcmp(p->goods_ID, ID) == 0) {
 			p->quantity += quantity;
-			return;
 		}
 		p->next = temp;
 		write_shoppingcarts(head);
@@ -405,12 +406,14 @@ void Buyer::view_all_goods() {
 		printf("No goods in your cart yet!\n");
 		return;
 	}
+	p = head;
 	printf("%-15s %-10s %-10s %-10s %-10s\n", "CommodityID", "SellerID","Quantity", "Price", "Time");
 	for (; p; p = p->next) {
 		if (strcmp(p->state, "undone") == 0) {
 			printf("%-15s %-10s %-10d %-10.lf %-10s\n", p->goods_ID, p->seller_ID,p->quantity, p->price, p->time);
 		}
 	}
+	clear(head);
 }
 void shoppingcart_title() {
 	printf("======================================================================================================================\n");

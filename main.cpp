@@ -4,6 +4,7 @@
 #include "User.h"
 #include "Buyer.h"
 #include "Seller.h"
+#include<cstring>
 #include "administrator.h"
 #include "function.h"
 using namespace std;
@@ -42,9 +43,9 @@ int main()
 		fp = fopen("shoppingcart.txt", "w");
 		fclose(fp);
 	}
-	fp = fopen("messages.txt", "r");
+	fp = fopen("messa.txt", "r");
 	if (!fp) {
-		fp = fopen("messages.txt", "w");
+		fp = fopen("messa.txt", "w");
 		fclose(fp);
 	}
 	int choice;
@@ -91,12 +92,26 @@ int main()
 							if (!judge_address(new_user_pointer->address)) {
 								break;
 							}
-							User new_user = sign_up(new_user_pointer);
-								new_user.user_interface();
-								break;
+							get_new_ID_users(new_user_pointer);
+							sprintf(new_user_pointer->state, "active");
+							new_user_pointer->next = NULL;
+							new_user_pointer->money_rest = 0.0;
+							if (!p) {
+								write_users(new_user_pointer);
+							}
+							else {
+								for (; p->next; p = p->next);
+								p->next = new_user_pointer;
+								write_users(head);
+							}
+							printf("-----Successful registration!-----\n\n");
+							User temp(new_user_pointer);
+							temp.user_interface();
+							new_user_pointer = nullptr;
+							break;
 						}
 						else {
-							printf("Name already used, please try another!");
+							printf("Name already used, please try another!\n");
 						}
 					}
 				}

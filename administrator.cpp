@@ -1,6 +1,7 @@
 #include<iostream>
 #include "administrator.h"
 #include "function.h"
+#include<cstring>
 using namespace std;
 bool administrator::log_in(char name[11],char password[21]) {
 	if (strcmp(name, "admin") == 0 ) {
